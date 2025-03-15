@@ -1,20 +1,30 @@
+ ____  __  __   _       _____   _   _    ____   _____  
+|  _ \|  \/  | | |     |  ___| | \ | |  / ___| |  ___| 
+| |_) | |\/| | | |     | |_    |  \| | | |     | |_    
+|  __/| |  | | | |___  |  _|   | |\  | | |___  |  _|   
+|_|   |_|  |_| |_____| |_|     |_| \_|  \____| |_|     
 
+## About Me
 
-### Hey there! 👋 I'm Will Zheng 
+Greetings! I'm a student majoring in CS based in 📍 Changchun, Jilin, China, with a deep passion for the intricacies of Artificial Intelligence, particularly Large Language Models (LLMs). I'm currently immersed in developing an AI-assisted video player, aiming to redefine how we interact with visual content.
 
-I'm a university student with a passion for AI, particularly Large Language Models (LLMs). I'm fascinated by their ability to change how we interact with technology.  I'm currently putting that passion into action by developing an AI-powered video player.
+Beyond the core AI development, I'm actively exploring the **Model Context Protocol (MCP)**, a cutting-edge standard for connecting AI agents to external data sources and tools. This allows for a more seamless and powerful integration of AI into various applications.
 
-Beyond the core AI work, I'm also expanding my skillset with MCP.
+## Skills
 
-**My Tech Stack:**
+*   **AI:** Large Language Models (LLMs), Model Context Protocol (MCP)
+*   **Video Player Development:** Building interactive and intelligent video experiences.
+*   **Programming Languages:**
+    *   Swift 📱
+    *   C/C++ ⚙️
+    *   Java ☕
+    *   HTML 🌐
+    *   Go (Currently Learning) 🐹
 
-*   Swift 📱
-*   C/C++ ⚙️
-*   Java ☕
-*   HTML 🌐
-*   Go (Currently Learning) 🐹
+## Interests
 
-When I'm not coding, you'll likely find me singing 🎤. I'm an outgoing person who loves connecting with new people, so don't hesitate to reach out!
-
+*   Exploring the potential of AI to transform various industries.
+*   Contributing to open-source projects.
+*   Singing 🎤 (It's a great way to unwind and recharge!)
 
 
